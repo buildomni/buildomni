@@ -23,17 +23,13 @@ We are building one destination for digital products and services, helping busin
 
 Explore current service scope and availability in the [BuildOmni catalog](https://buildomni.co/en/gigs).
 
-## Start with a clearer project
-
-Our [Project Planning Kit](https://github.com/buildomni/project-planning-kit) helps turn an idea into a useful brief: users, workflows, requirements, acceptance checks and launch responsibilities.
-
-## What we share here
+## What we are preparing to share
 
 - Practical planning templates and delivery checklists.
 - Technical examples and tools as they become ready for public use.
 - Documentation that explains how to use each published resource.
 
-Each repository describes its own scope and current status.
+Each repository will describe its own scope and current status.
 
 ## How we approach delivery
 
